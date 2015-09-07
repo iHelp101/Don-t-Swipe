@@ -1,2 +1,2 @@
-<p>202;com.cyngn.gallerynext.app.fullscreenviewer.FullscreenViewer;onMenuOpened;onOptionsItemSelected;com.cyngn.gallerynext.views.GalleryViewPager;onInterceptTouchEvent</p>
-<p>102;com.cyngn.gallerynext.app.fullscreenviewer.FullscreenViewer;onMenuOpened;onOptionsItemSelected;com.cyngn.gallerynext.views.GalleryViewPager;onInterceptTouchEvent</p>
+<p>202;com.cyngn.gallerynext.app.fullscreenviewer.FullscreenViewer;onMenuOpened;onOptionsItemSelected;com.cyngn.gallerynext.views.GalleryViewPager;onInterceptTouchEvent;</p>
+<p>102;com.cyngn.gallerynext.app.fullscreenviewer.FullscreenViewer;onMenuOpened;onOptionsItemSelected;com.cyngn.gallerynext.views.GalleryViewPager;onInterceptTouchEvent;</p>
