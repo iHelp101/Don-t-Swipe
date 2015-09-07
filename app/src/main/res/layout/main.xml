@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+        android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Crash Application"
+            android:id="@+id/crash"
+            android:checked="false"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Return To Home Screen"
+            android:id="@+id/home"
+            android:checked="false"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Show Specified Text"
+            android:id="@+id/text"
+            android:checked="false"/>
+    </LinearLayout>
+</RelativeLayout>

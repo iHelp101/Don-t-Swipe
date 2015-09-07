@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Don\'t Swipe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Alert Dialog -->
+    <string name="Okay">Okay</string>
+    <string name="Warning">You can access the app via the Xposed Installer once it has been hidden.</string>
+
+    <!-- Menu -->
+    <string name="Cyanogen">Cyanogen Gallery</string>
+    <string name="Google">Google Photos</string>
+    <string name="Hide">Hide App</string>
+    <string name="Piktures">Piktures Gallery</string>
+    <string name="Show">Show App</string>
+
+    <!-- Menu Options -->
+    <string name="lock">Lock Image/Video</string>
+    <string name="unlock">Unlock Image/Video</string>
+    
+    <!-- Toast Messages -->
+    <string name="Hooks_Latest">You already have the latest hooks.</string>
+    <string name="Hooks_Updated">Hooks have been updated.\nPlease reboot your device.</string>
+</resources>
