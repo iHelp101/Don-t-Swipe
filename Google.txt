@@ -1,3 +1,4 @@
+<p>7834;com.google.android.apps.photos.photofragment.components.touch.PhotoFragmentTouchHandler;dispatchTouchEvent;dki;a;a;</p>
 <p>7291;com.google.android.apps.photos.photofragment.components.touch.PhotoFragmentTouchHandler;dispatchTouchEvent;dkp;a;a;</p>
 <p>7290;com.google.android.apps.photos.photofragment.components.touch.PhotoFragmentTouchHandler;dispatchTouchEvent;dkp;a;a;</p>
 <p>7247;com.google.android.apps.photos.photofragment.components.touch.PhotoFragmentTouchHandler;dispatchTouchEvent;dkp;a;a;</p>
