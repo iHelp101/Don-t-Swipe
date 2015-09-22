@@ -1,3 +1,4 @@
+<p>7982;com.google.android.apps.photos.pager.viewpager.PhotoViewPager;onInterceptTouchEvent;dki;a;a;photos_pager_menu_slideshow</p>
 <p>7834;com.google.android.apps.photos.photofragment.components.touch.PhotoFragmentTouchHandler;dispatchTouchEvent;dki;a;a;photos_pager_menu_slideshow</p>
 <p>7291;com.google.android.apps.photos.photofragment.components.touch.PhotoFragmentTouchHandler;dispatchTouchEvent;dkp;a;a;photos_pager_menu_loop_video</p>
 <p>7290;com.google.android.apps.photos.photofragment.components.touch.PhotoFragmentTouchHandler;dispatchTouchEvent;dkp;a;a;photos_pager_menu_loop_video</p>
