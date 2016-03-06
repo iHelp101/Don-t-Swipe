@@ -1,3 +1,0 @@
-<p>460110;com.alensw.ui.interaction.InteractionActivity;onCreateOptionsMenu;onOptionsItemSelected;com.alensw.ui.view.PictureView;onTouchEvent;</p>
-<p>16;com.alensw.ui.interaction.InteractionActivity;onCreateOptionsMenu;onOptionsItemSelected;com.alensw.ui.view.PictureView;onTouchEvent;</p>
-<p>15;com.alensw.ui.c.cx;onCreateOptionsMenu;onOptionsItemSelected;com.alensw.ui.view.PictureView;onTouchEvent;</p>

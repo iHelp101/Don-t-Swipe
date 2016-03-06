@@ -1,2 +1,5 @@
+<p>1621;com.google.android.apps.photos.pager.viewpager.PhotoViewPager;onInterceptTouchEvent;czf;a;a;photos_pager_menu_slideshow;</p>
+<p>1618;com.google.android.apps.photos.pager.viewpager.PhotoViewPager;onInterceptTouchEvent;czf;a;a;photos_pager_menu_slideshow;</p>
+<p>1608;com.google.android.apps.photos.pager.viewpager.PhotoViewPager;onInterceptTouchEvent;czf;a;a;photos_pager_menu_slideshow;</p>
 <p>1503;com.google.android.apps.photos.pager.viewpager.PhotoViewPager;onInterceptTouchEvent;czf;a;a;photos_pager_menu_slideshow;</p>
 <p>1447;com.google.android.apps.photos.pager.viewpager.PhotoViewPager;onInterceptTouchEvent;cza;a;a;photos_pager_menu_slideshow;</p>
